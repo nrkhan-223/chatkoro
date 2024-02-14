@@ -1,0 +1,11 @@
+export './colors.dart';
+export './images.dart';
+export './strings.dart';
+export './styles.dart';
+export 'package:get/get.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:flutter/material.dart';
+export 'package:google_sign_in/google_sign_in.dart';
+export 'custom_consts.dart';
+export 'package:firebase_auth/firebase_auth.dart';
+export 'package:cloud_firestore/cloud_firestore.dart';
